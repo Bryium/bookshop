@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179197797606",
+    "project_id": "mel-s-book-shop",
+    "storage_bucket": "mel-s-book-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179197797606:android:f1604d78903b3fe9af0727",
+        "android_client_info": {
+          "package_name": "com.bookshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8OT8Hovirl_zEQ-msWssOVCdD4DGWh30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
